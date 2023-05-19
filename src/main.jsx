@@ -14,6 +14,8 @@ import './styles.css';
 
 //NOTA: para ver cómo usar git y github (yo tengo una cuenta con el correo de erick.salvador.olivar@gmail.com) con nuestro proyecto, ver este video: https://www.udemy.com/course/react-cero-experto/learn/lecture/32017330#questions
 
+//NOTA: En github tenemos otra forma de desplegar nuestro proyecto en produccion aparte de usar Netlify como se mencionó arriba, esto es usando Github pages, para ver cómo se hace ver este video (primero debemos tener nuestro proyecto subido a github y arriba se menciona cómo): https://www.udemy.com/course/react-cero-experto/learn/lecture/19762390#questions , y tambien ver este video: https://www.udemy.com/course/react-cero-experto/learn/lecture/32018146#questions
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   //arriba se explica lo de React.StrictMode
   //<React.StrictMode>
