@@ -12,6 +12,8 @@ import './styles.css';
 
 //NOTA: si tenemos un proyecto de react que tenga el package.json pero que no tenga la carpeta de node_modules, como cuando descargamos un proyecto de github, entonces en la consola sobre la raiz del proyecto ponemos: yarn , si el proyecto fue creado con yarn, o npm install , si el proyecto fue creado con npm
 
+//NOTA: para ver cómo usar git y github (yo tengo una cuenta con el correo de erick.salvador.olivar@gmail.com) con nuestro proyecto, ver este video: https://www.udemy.com/course/react-cero-experto/learn/lecture/32017330#questions
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   //arriba se explica lo de React.StrictMode
   //<React.StrictMode>
